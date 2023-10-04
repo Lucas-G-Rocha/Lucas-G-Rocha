@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1>Olá, Sou Lucas Rocha 🫡 </h1>
 
-<!--
-**Lucas-G-Rocha/Lucas-G-Rocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim...
+<ul>
+  <li>Estudante de <ins>Análise e Desenvolvimento De Sistemas</ins> - Segundo periodo(04/10/2023);</li>
+  <li><strong>Disponível para Estagiar</strong></li>
+  <li>Busco por experiências para ter um aprendizado melhor</li>
+  <li>Tenho 20 anos;</li>
+</ul>
+
+## Tecnologias... 
+
+
+
+
+
+
+
