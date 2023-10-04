@@ -8,7 +8,7 @@
 ## Sobre mim...
 <ul>
   <li>Estudante de <ins>Análise e Desenvolvimento De Sistemas</ins> - Segundo periodo(04/10/2023);</li>
-  <li><strong>Disponível para Estagiar</strong></li>
+  <li>Disponível para Estagiar></li>
   <li>Busco por experiências para ter um aprendizado melhor</li>
   <li>Tenho 20 anos;</li>
 </ul>
