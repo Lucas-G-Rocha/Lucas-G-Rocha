@@ -34,9 +34,9 @@
   <li>Trabalho bem em equipe</li>
   <li>Organizado</li>
 </ul>
+<br>
+<p>"<strong>Porque Deus amou o mundo de tal maneira que enviou o seu filho unigênito para que todo aquele que nele crê não pereça, mas tenha a vida eterna</strong> { ~ João 3:16 ~ }"</p> 
 
-<p>Porque Deus amou o mundo de tal maneira que enviou o seu filho unigênito para que todo aquele que nele crê não pereça, mas tenha a vida eterna <br> </p> 
-<p>~ João 3:16 ~</p>
    
  
 
