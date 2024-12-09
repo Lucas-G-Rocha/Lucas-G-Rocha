@@ -37,7 +37,7 @@
   <li>Organizado</li>
 </ul>
 
-### Hardskills
+#### Hardskills
 
 <ul>
   <li>JavaScript</li>  
@@ -46,14 +46,14 @@
   <li>Mongoose</li>  
   <li>JsonWebToken</li>  
   <li>Express-Validator</li>  
+  <li>Variaveis de Ambiente(dotenv)</li>
+  <li>Async/Sync</li>
   <li>Bcrypt</li>  
   <li>Cookie-Parser</li>  
   <li>Handlebars</li>  
   <li>HTML5</li>  
   <li>CSS3</li>  
   <li>Responsive Layouts</li>  
-  <li>Variaveis de Ambiente(dotenv)</li>
-  <li>Async/Sync</li>
   
 </ul>
 <br>
