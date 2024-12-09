@@ -31,8 +31,30 @@
 <ul>
   <li>Honesto</li>
   <li>Calmo</li>
+  <li>Paciente</li>
+  <li>Focado</li>
   <li>Trabalho bem em equipe</li>
   <li>Organizado</li>
+</ul>
+
+### Hardskills
+
+<ul>
+  <li>JavaScript</li>  
+  <li>Node.js</li>  
+  <li>Express.js</li>  
+  <li>Mongoose</li>  
+  <li>JsonWebToken</li>  
+  <li>Express-Validator</li>  
+  <li>Bcrypt</li>  
+  <li>Cookie-Parser</li>  
+  <li>Handlebars</li>  
+  <li>HTML5</li>  
+  <li>CSS3</li>  
+  <li>Responsive Layouts</li>  
+  <li>Variaveis de Ambiente(dotenv)</li>
+  <li>Async/Sync</li>
+  
 </ul>
 <br>
 <p>"<strong>Porque Deus amou o mundo de tal maneira que enviou o seu filho unigênito para que todo aquele que nele crê não pereça, mas tenha a vida eterna</strong> { ~ João 3:16 ~ }"</p> 
