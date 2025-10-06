@@ -24,10 +24,11 @@
 
 ## Sobre mim...
 <ul>
-  <li>Estudante de <strong>Análise e Desenvolvimento De Sistemas</strong> - Segundo periodo(04/10/2023);</li>
+  <li>Estudante de <strong>Análise e Desenvolvimento De Sistemas</strong> - Quarto periodo(04/10/2025);</li>
   <li>Disponível para <strong>Estagio</strong>;</li>
-  <li>Busco por experiências para ter um aprendizado melhor e para crescer profissionalmente;</li>
-  <li>Estudei <strong>Administração</strong>(técnico) por 1 ano e 6 meses(2022 - 2023)</li>
+  <li>Busco por experiências para me aprimorar;</li>
+  <li>Estudo Node.js desde 12/2024</li>
+  <li>Estudo React desde 08/2025</li>
  
 </ul> 
 
@@ -46,8 +47,9 @@
 
 <ul>
   <li>JavaScript</li>  
-  <li>Node.js</li>  
-  <li>Express.js</li>  
+  <li>Node.js</li>
+  <li>React</li>
+  <li>Express.js</li>
   <li>Mongoose</li>  
   <li>JsonWebToken</li>  
   <li>Express-Validator</li>  
