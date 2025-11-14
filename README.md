@@ -15,7 +15,8 @@
 
 <br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-G-Rocha&show_icons=true&theme=tokyonight)
+![Lucas-G-Rocha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-G-Rocha&show_icons=true&theme=tokyonight&commits_year=2025)
+
 
 <br>
 
