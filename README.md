@@ -25,7 +25,7 @@
 
 ## Sobre mim...
 <ul>
-  <li>Estudante de <strong>Análise e Desenvolvimento De Sistemas</strong> - Quarto periodo(04/10/2025);</li>
+  <li>Estudante de <strong>Análise e Desenvolvimento De Sistemas</strong> - Quinto periodo(10/08/2026);</li>
   <li>Disponível para <strong>Estagio</strong>;</li>
   <li>Busco por experiências para me aprimorar;</li>
   <li>Estudo Node.js desde 12/2024</li>
