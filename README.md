@@ -1,4 +1,4 @@
-## Desenvolvedor Full Stack | PHP/Laravel | Node.js | React | MySQL | MongoDB
+## Desenvolvedor Full Stack | PHP/Laravel | Node.js | React | MySQL | MongoDB - Lucas Rocha
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasrocha03.2003@gmail.com)
 [![linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rocha-dev-adm)
