@@ -1,4 +1,3 @@
-```yaml
 name: Update GitHub Stats
 
 on:
@@ -54,4 +53,3 @@ jobs:
           git diff --cached --quiet || git commit -m "Update GitHub stats"
 
           git push
-```
