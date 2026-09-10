@@ -29,7 +29,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=Lucas-G-Rocha&layout=compact&theme=tokyonight&count_private=true&exclude_repo=jogo-ia
+          options: username=Lucas-G-Rocha&layout=compact&theme=tokyonight&count_private=true&hide=python
           path: profile/top-langs.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
 
