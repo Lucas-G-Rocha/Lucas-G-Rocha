@@ -1,3 +1,4 @@
+```yaml
 name: Update GitHub Stats
 
 on:
@@ -22,7 +23,7 @@ jobs:
           card: stats
           options: username=Lucas-G-Rocha&show_icons=true&theme=tokyonight
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
 
       # Top Languages
       - name: Generate Top Languages
@@ -31,14 +32,14 @@ jobs:
           card: top-langs
           options: username=Lucas-G-Rocha&layout=compact&theme=tokyonight
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
 
-      # Contribution Calendar / Streak
+      # Contribution Streak
       - name: Generate Contribution Stats
         uses: zients/github-readme-streak-stats@v2
         with:
           user: Lucas-G-Rocha
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
           output: profile/streak.svg
           disable_animations: true
 
@@ -53,3 +54,4 @@ jobs:
           git diff --cached --quiet || git commit -m "Update GitHub stats"
 
           git push
+```
