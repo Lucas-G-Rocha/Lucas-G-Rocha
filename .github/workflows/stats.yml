@@ -13,27 +13,27 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v4
 
-      # GitHub Stats
+      # GitHub Stats (Incluindo repositórios privados)
       - name: Generate Stats
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=Lucas-G-Rocha&show_icons=true&theme=tokyonight
+          options: username=Lucas-G-Rocha&show_icons=true&theme=tokyonight&count_private=true
           path: profile/stats.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
 
-      # Top Languages
+      # Top Languages (Incluindo repositórios privados)
       - name: Generate Top Languages
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=Lucas-G-Rocha&layout=compact&theme=tokyonight
+          options: username=Lucas-G-Rocha&layout=compact&theme=tokyonight&count_private=true
           path: profile/top-langs.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
 
-      # Contribution Streak
+      # Contribution Streak (Incluindo contribuições privadas)
       - name: Generate Contribution Stats
         uses: zients/github-readme-streak-stats@v2
         with:
@@ -41,6 +41,7 @@ jobs:
           token: ${{ secrets.GH_STATS_TOKEN }}
           output: profile/streak.svg
           disable_animations: true
+          mode: daily
 
       # Commit generated files
       - name: Commit changes
