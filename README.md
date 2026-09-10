@@ -51,8 +51,6 @@
 <div align="center">
   <img height="180em" src="./profile/stats.svg" />
   <img height="180em" src="./profile/top-langs.svg" />
-  <br><br>
-  <img height="180em" src="./profile/streak.svg" />
 </div>
 
 
