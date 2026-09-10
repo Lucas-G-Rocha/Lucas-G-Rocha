@@ -15,6 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
+      # GitHub Stats
       - name: Generate Stats
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -23,6 +24,7 @@ jobs:
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      # Top Languages
       - name: Generate Top Languages
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -31,6 +33,16 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      # Contribution Calendar / Streak
+      - name: Generate Contribution Stats
+        uses: zients/github-readme-streak-stats@v2
+        with:
+          user: Lucas-G-Rocha
+          token: ${{ secrets.GITHUB_TOKEN }}
+          output: profile/streak.svg
+          disable_animations: true
+
+      # Commit generated files
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
