@@ -24,24 +24,14 @@ jobs:
           path: profile/stats.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
 
-      # Top Languages (Incluindo repositórios privados)
+     # Top Languages (Excluindo o repositório jogo-ia)
       - name: Generate Top Languages
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=Lucas-G-Rocha&layout=compact&theme=tokyonight&count_private=true
+          options: username=Lucas-G-Rocha&layout=compact&theme=tokyonight&count_private=true&exclude_repo=jogo-ia
           path: profile/top-langs.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
-
-      # Contribution Streak (Incluindo contribuições privadas)
-      - name: Generate Contribution Stats
-        uses: zients/github-readme-streak-stats@v2
-        with:
-          user: Lucas-G-Rocha
-          token: ${{ secrets.GH_STATS_TOKEN }}
-          output: profile/streak.svg
-          disable_animations: true
-          mode: daily
 
       # Commit generated files
       - name: Commit changes
